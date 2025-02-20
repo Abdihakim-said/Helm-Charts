@@ -1,12 +1,6 @@
 # 🎯 Custom Helm Charts for Kubernetes Applications
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jdzF8kTtw2)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanpathakdevops)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Helm-blue)](https://kubernetes.io/)
-[![GitHub license](https://img.shields.io/github/license/AmanPathak-DevOps/Helm-Charts)](https://github.com/AmanPathak-DevOps/Helm-Charts/blob/main/LICENSE)
-[![Blog Link](https://img.shields.io/badge/Guide-Medium-green)](#comprehensive-guide)
+
 
 ![Architecture Banner](assets/Architecture.png)
 ## 🚀 Introduction
@@ -24,8 +18,6 @@ The main goal of this project is to:
 
 ## 📘 Comprehensive Guide
 
-For a complete step-by-step guide on how to create, package, and publish your Helm charts, refer to my detailed guide on Medium:  
-🔗 [Comprehensive Guide on Medium](https://amanpathakdevops.medium.com/how-to-package-and-publish-your-custom-helm-charts-a-hands-on-tutorial-c922c54f94a4)
 
 This guide will walk you through:
 - Setting up Helm charts from scratch.
